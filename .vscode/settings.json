@@ -1,0 +1,8 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.source.organizeImports.starThreshold": 99,
+    "java.source.organizeImports.staticStarThreshold": 99,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true
+}

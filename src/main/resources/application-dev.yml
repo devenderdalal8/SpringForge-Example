@@ -1,0 +1,5 @@
+# LOCAL DEVELOPMENT ONLY — not for production. Set strong secrets in .env before use.
+spring:
+  config:
+    activate:
+      on-profile: dev
